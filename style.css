@@ -1,0 +1,28 @@
+body{
+    background-color: plum;
+}
+
+#score{
+    font-size: 25px;
+    margin-left:600px;
+    font-weight: 550;
+    font-family: initial;
+}
+
+#timer{
+    font-size: 25px;
+    margin-left:300px;
+    font-weight: 550;
+    font-family: initial;
+}
+
+#tobedrawn{
+    font-size: 35px;
+    color: red;
+    font-family: initial;
+}
+
+h1{
+    background-color:rgb(192, 245, 179);
+    padding: 15px;
+}
